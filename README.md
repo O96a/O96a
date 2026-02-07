@@ -8,7 +8,6 @@
 [![Sudaverse](https://img.shields.io/badge/Sudaverse-Initiative-green?style=for-the-badge&logo=github)](https://github.com/sudaverse)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mihaysi/)
 [![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x)](https://x.com/O96a)
-[![Location](https://img.shields.io/badge/Doha-Qatar-8B0000?style=for-the-badge&logo=google-maps)](https://maps.google.com)
 
 **Agentic Cognitive Systems • Generative AI • Maritime AI**
 
@@ -30,8 +29,7 @@
 ## 💻 Tech Arsenal
 
 **Core:** `Python` `AI/ML` `LLMs` `Generative AI`  
-**Specialties:** `Agentic Systems` `Cognitive Architectures` `Maritime AI`  
-**Focus:** `Agentic AI Platforms` `Model Training & Fine-tuning` `Data Engineering` `Data manipulation`
+**Specialties:** `Agentic Systems` `Cognitive Architectures` `Maritime AI` `Data manipulation`
  
 
 ---
@@ -50,6 +48,5 @@
 ### 💡 Current Mission
 *Bridging innovation and tradition • Building AI that uplifts communities • Engineering the future*
 
-![Profile Views](https://komarev.com/ghpvc/?username=O96a&color=blueviolet&style=flat-square)
 
 </div>
