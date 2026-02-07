@@ -22,7 +22,6 @@
 🧑‍💻 **Co-Founder** @ [Sudaverse](https://github.com/sudaverse) - Where Sudan's brightest minds build ethical AI  
 🤖 **AI Engineer** specializing in agentic cognitive systems & Generative AI  
 🌊 **Maritime AI** technology innovator  
-🏛️ **Ministry of Interior** - Doha, Qatar
 
 ---
 
