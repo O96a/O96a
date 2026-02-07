@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🌟 Aamer Mihaysi
+# Aamer Mihaysi
 
 ### Chief Hulicitation Officer | AI Engineer | Sudaverse Co-Founder
 
