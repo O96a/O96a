@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mihaysi/)
 [![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x)](https://x.com/O96a)
 
-**Agentic Cognitive Systems • Generative AI • Maritime AI**
+**Agentic Cognitive Systems • Generative AI • Natural Language Processing (NLP)**
 
 *Making AI accessible, ethical, and culturally aware*
 
