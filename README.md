@@ -2,7 +2,7 @@
   
 # Aamer Mihaysi
 
-### Chief hallucination Officer | AI Engineer | Sudaverse Co-Founder
+###  | AI Engineer | Sudaverse Co-Founder
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mehaisi.com-blue?style=for-the-badge&logo=google-chrome)](https://mehaisi.com)
 [![Sudaverse](https://img.shields.io/badge/Sudaverse-Initiative-green?style=for-the-badge&logo=github)](https://github.com/sudaverse)
